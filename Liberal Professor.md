@@ -16,4 +16,4 @@ The students applauded and all registered Republican that day and accepted Jesus
 
 The professor lost his tenure and was fired the next day. He died of the gay plague AIDS and was tossed into the lake of fire for all eternity.
 
-##Semper Fi
+####Semper Fi

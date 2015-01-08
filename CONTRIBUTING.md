@@ -33,6 +33,11 @@ You must use the fancy curved Unicode versions of American English [quotation ma
 |:---------------------:|:-----------------------:|
 |**“**…**”**|**‘**…**’**|
 
+#### Ellipsis
+
+Don't use three periods, Unicode has the ellipsis character!
+
+Here you go: …
 
 ## Issues
 

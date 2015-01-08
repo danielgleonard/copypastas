@@ -19,7 +19,7 @@ Copypastas must use [Reddit Markdown](https://www.reddit.com/comments/6ewgt/redd
 
 ### Formatting
 
-* .md files
+* `.md` files
 * Use *italics* for titles of books/movies
 * Place an empty line between paragraphs
 
